@@ -1,0 +1,17 @@
+dateModified: 1599695092
+email:
+  fromEmail: oceguedamp@gmail.com
+  fromName: nitro
+  transportType: craft\mail\transportadapters\Sendmail
+system:
+  edition: solo
+  live: true
+  name: nitro
+  schemaVersion: 3.5.13
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

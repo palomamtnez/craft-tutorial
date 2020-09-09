@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-NZ
+name: nitro
+primary: true
+siteGroup: e099a764-513b-414b-9147-f4c7f0c31213
+sortOrder: 1
